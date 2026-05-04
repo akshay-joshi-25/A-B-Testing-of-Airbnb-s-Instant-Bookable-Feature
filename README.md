@@ -87,4 +87,9 @@ If the p-value for any test was less than 0.05 (indicating statistical significa
 
 #### Table - Impact of Airbnb's Instant Bookable feature by location.
 
+Key notes:
+- Since actual booking numbers weren’t made available by Airbnb, I used reviews per month as a substitute for gross bookings per month — assuming more bookings generally lead to more reviews.
+- With reference to the **Diff %** column in the table below, the percentages highlighted in green indicate an increase in the monthly average number of reviews for instantly bookable listings compared to non-instant bookable listings, while those highlighted in red indicate the opposite.
+- With reference to the **p-value of T-Test** column in the table below, values greater than 0.05 are highlighed in red (indicating statistical insignificance).
+
 <img width="761" height="739" alt="image" src="https://github.com/user-attachments/assets/8ef4847f-7205-443f-94f6-a2531e0db2cd" />
