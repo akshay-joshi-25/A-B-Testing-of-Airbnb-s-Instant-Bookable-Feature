@@ -114,7 +114,7 @@ Key notes:
 
 **3. Statistically significant in nearly all cases**
 
-* Most cities have p-values close to **0**, meaning the observed differences are unlikely due to chance.
+* Most cities have p-values close to **0**, meaning the observed differences are unlikely due to random variation.
 * This strengthens the conclusion that instant booking **genuinely drives higher engagement/bookings**.
 
 **4. Exceptions (no significant effect)**
