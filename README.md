@@ -6,7 +6,7 @@ The objective of this project is to conduct an A/B test on Airbnb’s 2025 U.S. 
 
 This project will cover the following:
 1. Conduct a high-level analysis of Airbnb's 2025 U.S. property listings by City.
-2. Stimulate an A/B Test on the dataset to generate valuable insights on the impact of Airbnb's instant bookable feature.
+2. Simulate an A/B Test on the dataset to generate valuable insights on the impact of Airbnb's instant bookable feature.
 
 # 📂 **Datasets**
 
