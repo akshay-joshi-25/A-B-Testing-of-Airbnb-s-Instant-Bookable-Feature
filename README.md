@@ -77,6 +77,14 @@ This A/B test would consist of two groups:
 - **Control:** Listings that don't offer an instant bookable feature to customers.
 - **Treatment:** Listings that offer an instant bookable feature to customers.
 
+### Methodology
+
+For the A/B test, I first conducted a t-test on the overall dataset (all 20 cities), followed by separate t-tests for each of the 20 cities. For each t-test, the p-value was calculated to assess statistical significance.
+
+If the p-value for any test was less than 0.05 (indicating statistical significance), I rejected the null hypothesis and concluded that Airbnb’s instant booking feature does indeed lead to an increase in a listing’s monthly bookings in the given location.
+
 ### Results
+
+#### Table - Impact of Airbnb's Instant Bookable feature by location.
 
 <img width="761" height="739" alt="image" src="https://github.com/user-attachments/assets/8ef4847f-7205-443f-94f6-a2531e0db2cd" />
