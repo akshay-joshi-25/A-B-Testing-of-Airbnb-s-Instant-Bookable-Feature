@@ -128,8 +128,9 @@ Key notes:
 * However:
 
   * Hawaii’s result is statistically significant (p = 0), suggesting a real negative effect.
-  * Washington D.C.’s result is **not significant**, so no strong conclusion can be drawn there.
-  * The negative impact in Hawaii is likely context-driven rather than causal—a mix of traveler preferences, regulations, and listing characteristics. Instant booking works best in high-volume, short-stay urban markets, but Hawaii behaves more like a high-consideration vacation market
+  * Washington D.C.’s result is **not statistically significant**, so the 3% decrease is likely the result of just noise.
+
+* The negative impact in Hawaii is likely context-driven rather than causal. Instant booking works best in high-volume, short-stay urban markets, but Hawaii on the other hand is more like a high-consideration vacation market. Furthermore, trips to Hawaii are typically expensive, long-haul, and planned in advance, and therefore don't tend to rely on last-minute instant bookings.
 
 ### Final takeaway
 
