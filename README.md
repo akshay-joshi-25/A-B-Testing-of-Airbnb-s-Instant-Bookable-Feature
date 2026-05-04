@@ -93,3 +93,43 @@ Key notes:
 - With reference to the **p-value of T-Test** column in the table below, values greater than 0.05 are highlighed in red (indicating statistical insignificance).
 
 <img width="761" height="739" alt="image" src="https://github.com/user-attachments/assets/8ef4847f-7205-443f-94f6-a2531e0db2cd" />
+
+#### Key insights
+
+**1. Strong overall effect**
+
+* Across all cities, instant bookable listings receive **27% more reviews per month (1.76 vs 1.38)**.
+* The p-value is **0**, indicating this difference is **statistically significant**.
+
+**2. Positive impact in most cities**
+
+* The majority of cities show **higher reviews for instant bookable listings** (green percentages).
+* Some of the largest increases:
+
+  * **New York City**: +141%
+  * **San Francisco**: +53%
+  * **Los Angeles**: +44%
+  * **Austin & Portland**: +41%
+* This suggests the feature is particularly impactful in high-demand urban markets.
+
+**3. Statistically significant in nearly all cases**
+
+* Most cities have p-values close to **0**, meaning the observed differences are unlikely due to chance.
+* This strengthens the conclusion that instant booking **genuinely drives higher engagement/bookings**.
+
+**4. Exceptions (no significant effect)**
+
+* **Columbus, OH (p = 0.34)** and **Washington D.C. (p = 0.35)** show **no statistically significant difference**.
+* In these cities, the feature does not appear to meaningfully impact booking activity.
+
+**5. Negative impact in a few locations**
+
+* **Hawaii (-12%)** and **Washington D.C. (-3%)** show lower reviews for instant listings.
+* However:
+
+  * Hawaii’s result is statistically significant (p = 0), suggesting a real negative effect.
+  * Washington D.C.’s result is **not significant**, so no strong conclusion can be drawn there.
+
+### Final takeaway
+
+Airbnb’s instant booking feature **generally leads to higher booking activity**, with statistically significant improvements in most cities. However, its effectiveness **varies by location**, and in rare cases (like Hawaii), it may even have a negative impact.
