@@ -48,5 +48,7 @@ For exploratory data analysis and A/B testing, I primarily focused on **FIVE** v
 
 # 📈 **Exploratory Data Analysis**
 
+### 2025 U.S. Airbnb Listings by City — Instant Bookable vs. Non-Instant Bookable
+
 <img width="1396" height="903" alt="image" src="https://github.com/user-attachments/assets/c5982d55-ad91-41ee-ae92-57b32045c5e4" />
 
