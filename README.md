@@ -1,4 +1,4 @@
-# 📊 A-B Testing of Airbnb's Instant Bookable Feature
+# 📊 A/B Testing of Airbnb's Instant Bookable Feature
 
 The objective of this project is to conduct an A/B test on Airbnb’s 2025 U.S. property listings data to evaluate whether the company’s instant bookable feature leads to an increase in monthly bookings.
 
@@ -129,6 +129,7 @@ Key notes:
 
   * Hawaii’s result is statistically significant (p = 0), suggesting a real negative effect.
   * Washington D.C.’s result is **not significant**, so no strong conclusion can be drawn there.
+  * The negative impact in Hawaii is likely context-driven rather than causal—a mix of traveler preferences, regulations, and listing characteristics. Instant booking works best in high-volume, short-stay urban markets, but Hawaii behaves more like a high-consideration vacation market
 
 ### Final takeaway
 
