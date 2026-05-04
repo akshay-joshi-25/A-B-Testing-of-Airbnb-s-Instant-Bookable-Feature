@@ -94,7 +94,7 @@ Key notes:
 
 <img width="761" height="739" alt="image" src="https://github.com/user-attachments/assets/8ef4847f-7205-443f-94f6-a2531e0db2cd" />
 
-#### Key insights
+### Key insights
 
 **1. Strong overall effect**
 
