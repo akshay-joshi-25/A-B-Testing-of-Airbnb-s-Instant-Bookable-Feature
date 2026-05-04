@@ -65,3 +65,6 @@ Hawaii stands out as the most striking outlier — 56% of its listings are Insta
 ### Key takeaway
 
 The U.S. Airbnb market is overwhelmingly non-instant bookable, but the degree varies meaningfully by city type. Vacation-oriented leisure markets (Hawaii, San Diego, Austin, New Orleans) skew toward instant booking — reflecting professional operators optimising for conversion. Urban residential markets (NYC, Seattle, San Francisco, Portland) skew heavily toward non-instant — reflecting resident hosts who prioritise guest screening. This divide maps closely onto the distinction between short-term rental investment markets and primary-residence sharing markets.
+
+# 🧠 **A/B Test on Airbnb's Property Listings Dataset**
+
