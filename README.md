@@ -88,6 +88,7 @@ If the p-value for any test was less than 0.05 (indicating statistical significa
 #### Table - Impact of Airbnb's Instant Bookable feature by location.
 
 Key notes:
+- The instant bookable feature was first introudced by Airbnb in 2014.
 - Since actual booking numbers weren’t made available by Airbnb, I used reviews per month as a substitute for gross bookings per month as according to Airbnb, the estimated average review rate for guests is typically around [78%](https://www.researchgate.net/publication/381713442_The_Voice_of_the_Guests_Analysing_Airbnb_Reviews_as_a_Representative_Source_for_Tourism_Studies).
 - With reference to the **Diff %** column in the table below, the percentages highlighted in green indicate an increase in the monthly average number of reviews for instantly bookable listings compared to non-instant bookable listings, while those highlighted in red indicate the opposite.
 - With reference to the **p-value of T-Test** column in the table below, values greater than 0.05 are highlighed in red (indicating statistical insignificance).
