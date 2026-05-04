@@ -52,16 +52,16 @@ For exploratory data analysis and A/B testing, I primarily focused on **FIVE** v
 
 <img width="1396" height="903" alt="image" src="https://github.com/user-attachments/assets/c5982d55-ad91-41ee-ae92-57b32045c5e4" />
 
-##### Overall market size and distribution
+### Overall market size and distribution
 
 Los Angeles dominates the U.S. Airbnb market by a significant margin at ~33,500 listings, followed by Hawaii (~26,500) and New York City (~25,000). These three cities collectively dwarf every other market on the chart. From San Diego (~11,000) onwards, there is a steep and fairly steady decline in total listings, with the smallest markets — Fort Worth, Newark — sitting below 4,000 listings each.
 
-##### The Non-Instant Bookable dominance
+### The Non-Instant Bookable dominance
 
 Across virtually every city, Non-Instant Bookable listings (blue) form the majority. This is the structural norm of the U.S. Airbnb market — hosts generally prefer to vet guests before confirming, retaining control over who stays in their property. The pattern holds regardless of market size, geography, or city type.
 
 Hawaii stands out as the most striking outlier — 56% of its listings are Instant Bookable, making it the only market where instant bookings form the majority. This likely reflects a more professionalised, investor-driven host base managing vacation rental properties as a business, where frictionless booking maximises occupancy. San Diego (39%) and Austin (41%) also skew notably higher toward Instant Bookable compared to the national pattern, suggesting similar vacation-market dynamics.
 
-#### Key takeaway
+### Key takeaway
 
 The U.S. Airbnb market is overwhelmingly non-instant bookable, but the degree varies meaningfully by city type. Vacation-oriented leisure markets (Hawaii, San Diego, Austin, New Orleans) skew toward instant booking — reflecting professional operators optimising for conversion. Urban residential markets (NYC, Seattle, San Francisco, Portland) skew heavily toward non-instant — reflecting resident hosts who prioritise guest screening. This divide maps closely onto the distinction between short-term rental investment markets and primary-residence sharing markets.
