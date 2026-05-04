@@ -68,3 +68,15 @@ The U.S. Airbnb market is overwhelmingly non-instant bookable, but the degree va
 
 # 🧠 **A/B Test on Airbnb's Property Listings Dataset**
 
+### Features of the A/B Test
+
+**Null Hypothesis:** Instant Bookable feature does not lead to an increase in a listing's monthly bookings.
+**Alternative Hypothesis:** Instant Bookable feature leads to an increase in a listing's monthly bookings.
+
+This A/B test would consist of two groups:
+**Control:** Listings that don't offer an instant bookable feature to customers.
+**Treatment:** Listings that offer an instant bookable feature to customers.
+
+### Results
+
+<img width="761" height="739" alt="image" src="https://github.com/user-attachments/assets/8ef4847f-7205-443f-94f6-a2531e0db2cd" />
