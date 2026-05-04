@@ -41,6 +41,8 @@ For exploratory data analysis and A/B testing, I primarily focused on **FIVE** v
 4. Reviews per month - Number of reviews the listing had in a month.
 5. Listing Location - Name of the city where the listing is located.
 
+You can access the cleaned & amended dataset by clicking [here.](https://github.com/akshay-joshi-25/A-B-Testing-of-Airbnb-s-Instant-Bookable-Feature/blob/main/Dataset.csv)
+
 # 🔧 **Tools Used**
 
 - **Python** was used for statistical analysis and A/B Testing.
@@ -136,3 +138,5 @@ Key notes:
 ### Final takeaway
 
 Airbnb’s instant booking feature **generally leads to higher booking activity**, with statistically significant improvements in most cities. However, its effectiveness **varies by location**, and in rare cases (like Hawaii), it may even have a negative impact.
+
+You can access the Python code used to conduct the t-test by clicking [here.](https://github.com/akshay-joshi-25/A-B-Testing-of-Airbnb-s-Instant-Bookable-Feature/blob/main/AB%20Test%20on%20Airbnb%20Property%20Listings.ipynb)
