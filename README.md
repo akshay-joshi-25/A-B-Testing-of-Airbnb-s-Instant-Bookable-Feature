@@ -52,3 +52,6 @@ For exploratory data analysis and A/B testing, I primarily focused on **FIVE** v
 
 <img width="1396" height="903" alt="image" src="https://github.com/user-attachments/assets/c5982d55-ad91-41ee-ae92-57b32045c5e4" />
 
+##### Overall market size and distribution
+
+Los Angeles dominates the U.S. Airbnb market by a significant margin at ~33,500 listings, followed by Hawaii (~26,500) and New York City (~25,000). These three cities collectively dwarf every other market on the chart. From San Diego (~11,000) onwards, there is a steep and fairly steady decline in total listings, with the smallest markets — Fort Worth, Newark — sitting below 4,000 listings each.
