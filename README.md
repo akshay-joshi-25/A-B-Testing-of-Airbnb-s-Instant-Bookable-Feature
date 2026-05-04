@@ -12,7 +12,7 @@ This project will cover the following:
 
 The datasets used for this project were publicly made available by Airbnb via the [insider Airbnb website](https://insideairbnb.com/get-the-data/)
 
-For this project, I used 2025 Airbnb property listings from 20 major U.S. cities:
+For this project, I used 2025 Airbnb property listings from **20** major U.S. cities:
 - Asheville, NC
 - Austin, TX
 - Boston, MA
@@ -34,4 +34,9 @@ For this project, I used 2025 Airbnb property listings from 20 major U.S. cities
 - Twin Cities, MN
 - Washington D.C.
 
-For exploratory data analysis and A/B testing, I primarily focused on *FIVE* variables:
+For exploratory data analysis and A/B testing, I primarily focused on **FIVE** variables:
+1. id - Listing id.
+2. Property Type - Type of listed property.
+3. Instant Bookable (True/False) - Whether the property can be instantly booked or not.
+4. Reviews per month - Number of reviews the listing had in a month.
+5. Listing Location - Name of the city where the listing is located.
